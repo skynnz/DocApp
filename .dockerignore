@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+build
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+data
+tmp
+backups
+coverage
+PLAN.md
+scripts/*-check.mjs
+scripts/paged-test.mjs
